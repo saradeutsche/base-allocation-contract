@@ -36,4 +36,4 @@ contract BaseAllocation {
     
     receive() external payable {}
 }
-rare
+ra
